@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0EAE64</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="whiteme">#ffff</color>
+    <color name="black">#0C0606</color>
+    <color name="welcome">#2B2B44</color>
+    <color name="typehere">#C1C1C1</color>
+    <color name="white">#fff</color>
+    <color name="darkblue">#241DFF</color>
+    <color name="userbg">#F1F1F1</color>
+    <color name="userbg1">#EBEBEB</color>
+    <color name="grey_Dark_color"> #707070</color>
+    <color name="loaderBg">#60D7D7D7</color>
+    <color name="lightgrey">#E2E2E2</color>
+    <color name="mustardyellow">#FCC511</color>
+    <color name="pink">#D4145A</color>
+    <color name="green">#42AA5C</color>
+    <color name="lightblue">#139DFF</color>
+    <color name="grey_color">#BFC2C6</color>
+    <color name="penblue">#36396E</color>
+    <color name="darkpink">#F10360</color>
+    <color name="lightpink">#FFF5F9</color>
+    <color name="darkblack">#242830</color>
+    <color name="fgrey">#AEAEAE</color>
+    <color name="skin">#ECD1AE</color>
+</resources>

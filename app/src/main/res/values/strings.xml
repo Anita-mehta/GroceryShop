@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="vegetables_50">Vegetables 50% Off</string>
+    <string name="subtitle"><font color="#949494">Register with us in</font><font color="#2B2B44">" <b> Surprise</b>"</font>
+        <font color="#D4145A"><b>"me"</b></font><font color="#707070">"."</font></string>
+    <string name="now">Buy Now</string>
+    <string name="otptxt">we have sent you SMS with 6 digit verification code ( OTP ) on ...</string>
+    <string name="enter_your_phone">Enter your phone number the verification process.we will send 4 digits code to your phone.</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reset">Set the new password for your account you can login and access all the features.</string>
+    <string name="search_for">Search for  items.....</string>
+    <string name="shop_by_category">Shop by Category</string>
+    <string name="vegetable_furtis"><![CDATA[Vegetable & Furtis]]></string>
+    <string name="chicken_egg"><![CDATA[Chicken & Egg]]></string>
+
+</resources>
